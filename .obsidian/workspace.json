@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "d2792253148acb50",
+    "type": "split",
+    "children": [
+      {
+        "id": "43766181a8dcfb16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24017a3b7fba5cea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyectos/Banco de Información de CodeSolvers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8d9cdef775d7c52a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dd8af7904ed6c91",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97121a9d22b6e6a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "884a44b62038022e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00b57aba44613d3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e463e1b161601465",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d7698b5b9f2849d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1099f40d2b1834e",
+    "type": "split",
+    "children": [
+      {
+        "id": "52154d046c382939",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "658fcd5d93533286",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Proyectos/Banco de Información de CodeSolvers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eae946c9dfbf4f1e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Proyectos/Banco de Información de CodeSolvers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57d7606ec7f1688b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e472a8956d3b6d23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Proyectos/Banco de Información de CodeSolvers.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "24017a3b7fba5cea",
+  "lastOpenFiles": [
+    "Proyectos/Banco de Información de CodeSolvers.md",
+    "Proyectos/Repositorio",
+    "Multimedia",
+    "Teoria",
+    "Problemas",
+    "Proyectos",
+    "Welcome.md"
+  ]
+}
